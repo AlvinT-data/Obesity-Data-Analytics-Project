@@ -49,4 +49,4 @@ This project explores patterns in adult obesity and physical inactivity across t
 
 - Python, pandas, seaborn, matplotlib, plotly
 - Jupyter Notebook / Google Colab
-- Data source: [CDC BRFSS](https://shorturl.at/ZrkLm)
+- Data source: [CDC BRFSS](https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system)
