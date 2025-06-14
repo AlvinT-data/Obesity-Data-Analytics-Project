@@ -2,6 +2,7 @@
 
 This project explores patterns in adult obesity and physical inactivity across the United States using government health data from 2016 to 2023. The analysis focuses on how obesity varies by demographic factors (age, income, education, race/ethnicity, and sex) and behavioral factors (physical inactivity), as well as national and state-level trends over time.
 
+[Pressentation of the Project](https://docs.google.com/presentation/d/1LuAUm177GcFM8Q58WMu1tF8_dvglBJ4nlqJ72I6qDSA/edit?usp=sharing)
 ---
 
 ## Key Goals
